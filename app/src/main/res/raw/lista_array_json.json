@@ -1,0 +1,56 @@
+[
+	{
+		"tipos" : "domestico",
+		"values"  :
+		[
+				{      "id" : 24,
+						"animal" : "canario",
+						"color":"blanco",
+						"edad":10
+				},
+						{"id" : 25,
+						"animal" : "perro",
+						"color":"naranja",
+						"edad":10
+				},
+				
+						{"id" : 26,
+						"animal" : "gato",
+						"color":"negro",
+						"edad":10
+				 },
+						{"id" : 27,
+						"animal" : "kohala",
+						"color":"marron",
+						"edad":10
+				 }
+		 ]
+	 },
+	 {
+		"tipos" : "salvaje",
+		"values"  :
+		[
+				{      "id" : 24,
+						"animal" : "leon",
+						"color":"blanco",
+						"edad":10
+				},
+						{"id" : 25,
+						"animal" : "tigre",
+						"color":"naranja",
+						"edad":10
+				},
+				
+						{"id" : 26,
+						"animal" : "cocodrilo",
+						"color":"negro",
+						"edad":10
+				 },
+						{"id" : 27,
+						"animal" : "leopardo",
+						"color":"marron",
+						"edad":10
+				 }
+		 ]
+	 }
+]	 
