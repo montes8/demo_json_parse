@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ListaAnimal {
 
     private String tipos;
-    private ArrayList<Domestico> values;
+    private ArrayList<Tipos> values;
 
     public String getTipos() {
         return tipos;
@@ -15,11 +15,11 @@ public class ListaAnimal {
         this.tipos = tipos;
     }
 
-    public ArrayList<Domestico> getValues() {
+    public ArrayList<Tipos> getValues() {
         return values;
     }
 
-    public void setValues(ArrayList<Domestico> values) {
+    public void setValues(ArrayList<Tipos> values) {
         this.values = values;
     }
 

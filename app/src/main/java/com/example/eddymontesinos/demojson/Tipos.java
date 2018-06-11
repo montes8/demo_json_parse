@@ -1,6 +1,6 @@
 package com.example.eddymontesinos.demojson;
 
-public class Domestico {
+public class Tipos {
 
     private String id;
     private String animal;
@@ -42,7 +42,7 @@ public class Domestico {
 
     @Override
     public String toString() {
-        return "Domestico{" +
+        return "Tipo{" +
                 "id='" + id + '\'' +
                 ", animal='" + animal + '\'' +
                 ", color='" + color + '\'' +
